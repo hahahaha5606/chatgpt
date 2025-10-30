@@ -20,3 +20,5 @@ JSON 摘要中应包括以下字段：
 2. 使用时需要创建.env文件用来存储模型的 API_KEY ，文件内容为：
 `OPENAI_API_KEY="sk-..."`
 
+## 效果
+<img width="1836" height="913" alt="image" src="https://github.com/user-attachments/assets/fa9d3bf2-8447-4ea2-a700-8acd5caa97a2" />
